@@ -13,7 +13,7 @@ Prerequisites:
 - 3D Printer
 - M2x4 screws
 
-Use your 3D printer and print 'UnicornNakedPart1.stl', 'UnicornNakedPart2.stl' and 'UnicornNakedPart3.stl' and assemble as following.<br>
+Use your 3D printer to print 'UnicornNakedPart1.stl', 'UnicornNakedPart2.stl' and 'UnicornNakedPart3.stl' and assemble as following:<br>
 ![alt text][step1]
 ![alt text][step2]
 ![alt text][step3]
