@@ -8,6 +8,7 @@ The Unicorn Brain Interface is a high-quality wireless EEG-headset for brain-com
 [step5]: https://github.com/unicorn-bi/Unicorn-Naked-3D-printed-case/blob/main/images/5.jpg "Step 5"
 [step6]: https://github.com/unicorn-bi/Unicorn-Naked-3D-printed-case/blob/main/images/6.jpg "Step 6"
 [step7]: https://github.com/unicorn-bi/Unicorn-Naked-3D-printed-case/blob/main/images/7.jpg "Step 7"
+[step8]: https://github.com/unicorn-bi/Unicorn-Naked-3D-printed-case/blob/main/images/8.jpg "Step 8"
 
 Prerequisites:
 - 3D Printer
@@ -21,3 +22,4 @@ Use your 3D printer to print 'UnicornNakedPart1.stl', 'UnicornNakedPart2.stl' an
 ![alt text][step5]
 ![alt text][step6]
 ![alt text][step7]
+![alt text][step8]
